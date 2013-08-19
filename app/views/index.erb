@@ -1,0 +1,25 @@
+<div class="wrapper">
+  <div class="not-left"> 
+
+  <%= HtmlHelper.authenticator(UserHelper.user(session[:user_id])) %>
+
+  <%= erb @display.to_sym %>
+  
+  </div>
+
+  <% links = [{display: "1", link: "/"},
+              {display: "2", link: "/"},
+              {display: "3", link: "/"}] %>
+
+  <%= HtmlHelper.nav_bar("Musculature", links) %>
+</div>
+
+
+
+
+
+
+
+
+
+
