@@ -1,0 +1,13 @@
+Access level   Read-only 
+About the application permission model
+Consumer key  D8jTu9GYHXrCTx9aRNExw
+Consumer secret zDbQCXz5U5pYNbYgCbjrlFInZ0PerFL7c0ABZ7NRU
+Request token URL https://api.twitter.com/oauth/request_token
+Authorize URL https://api.twitter.com/oauth/authorize
+Access token URL  https://api.twitter.com/oauth/access_token
+Callback URL  None
+Sign in with Twitter  No
+
+Access token  1479857516-Ksf0zqpUrhUhPlHMBRIr77HBKYDXUdIcYpvhoq4
+Access token secret DjxwtspGf8eLeiVwPKWa0KDer9UoDLEVBaijXtx9A
+Access level  Read-only

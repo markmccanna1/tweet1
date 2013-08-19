@@ -1,0 +1,19 @@
+<div class="wrapper">
+  <% if @twitteruser %>
+  <ul>
+    <% @twitteruser.tweets.each do |tweet| %>
+      <li><%= tweet.text %></li>
+    <% end %> 
+  </ul>
+  <% end %>
+</div>
+
+
+
+
+
+
+
+
+
+

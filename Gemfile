@@ -19,6 +19,8 @@ gem 'shotgun'
 
 gem 'bcrypt-ruby'
 
+gem 'twitter', :git => 'https://github.com/sferik/twitter.git'
+
 group :test do
   gem 'faker'
   gem 'rspec'
